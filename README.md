@@ -27,7 +27,7 @@ Un'altra parte del notebook tratta l'evoluzione delle statistiche dei portieri n
 \- <b>AnalisiComplementare: </b>
 Questa analisi, condotta sui giocatori di movimento, è finalizzata al riconoscimento dei giocatori che, per le loro caratteristiche, potrebbero performare meglio in un ruolo diverso da quello loro assegnato.
 
-<h3> Models used -Modelli utilizzati </h3>
+<h3> Models used - Modelli utilizzati </h3>
 
 1. Kmeans
 2. Agglomerative Clustering
